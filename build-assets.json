@@ -1,0 +1,9 @@
+{
+  "main": {
+    "js": "main.bundle.js",
+    "css": "main.bundle.css"
+  },
+  "vendor": {
+    "js": "vendor.bundle.js"
+  }
+}
